@@ -1,0 +1,1 @@
+This is a little Tapping game for Android. Created just for fun by me and Uttam Soren.
